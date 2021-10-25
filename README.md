@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maherab Hossain</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaherabHossain&label=Profile%20views&color=0e75b6&style=flat" alt="MaherabHossain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-
-  -trophy"><img src="https://github-profile-trophy.vercel.app/?username=MaherabHossain" alt="MaherabHossain" /></a> </p>
 
 
 - 🌱 I’m currently learning **javaScript, React-Native**
