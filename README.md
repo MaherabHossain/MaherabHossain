@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maherab Hossain</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">Android and Backend Developer from Bangladesh</h3>
 
 
 
-- 🌱 I’m currently learning **javaScript, React-Native**
+- 🌱 I’m currently learning **Dart,Flutter**
 
-- 💬 Ask me about **React,React-Native,PHP,Laravel,JavaScript,C**
+- 💬 Ask me about **React-Native,PHP,Laravel,JavaScript,C,Dart,Flutter**
 
 - 📫 How to reach me **maherabhossain10@gmail.com**
 
